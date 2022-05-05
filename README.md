@@ -79,3 +79,7 @@ A summary of the findings:
 
 ## Licensing and Acknowledgement
 The datasets used in this analysis were provided by Udacity. Also, plotly provides examples of codes for different types of plots of which some have been adapted, edited, and used as needed.
+
+## Refrences 
+https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
