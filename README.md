@@ -59,13 +59,21 @@ My post in Medium shows the main findings of the analysis.
   * [**Starbucks offers Analysis using Python**](https://medium.com/@tanaviprakashborhade/starbucks-offers-analysis-using-python-40d35f57abb2)
 
 A summary of the findings:
+
 1.The mean is 65404.991568296799. It's not that low but put in mind that this is their annual income. The average income user in the middle-income group is 65000–70000.
+
 2. The average Aged user is middle age around 50–62 years.
+
 3. BOGO and Discount seem the most and they are close to each other with BOGO being slightly higher.
+
 4. Most customers of all gender types. Most of the female customers make between 60k and 70k while most male customers make above 80k. So, the most common are Adults and Male.
+
 5. we can see their Profile ID as each customer has a unique number, Number of Completed Offers, and the Amount. With this data, we can give them extra and unique promotions in order to reward in report image.
+
 6. We can observe that all of them have similar results in offer type, Transactions has the upper hand, followed by BOGO. We can also see that young adults and teens aren't our main customer group, so we can focus on the elderly and adults.
+
 7. The income median for females (around 70k) is higher than for males (around 60k) we can also see that for females the income spreads from 40k to 100k. For males, most of them are around 40k to 70k which is close to the median.
+
 8. Male and Female prefer BOGO. In Others(O), BOGO and discounts are the same, but we can't ignore discounts and the difference between them is low.
 
 
