@@ -60,7 +60,8 @@ My post in Medium shows the main findings of the analysis.
 
 A summary of the findings:
 
-1.The mean is 65404.991568296799. It's not that low but put in mind that this is their annual income. The average income user in the middle-income group is 65000–70000.
+
+1.The mean is 65404.991568296799. It's not that low but put in mind that this is their annual income. The average income user in the middle-income group is 65000–        70000.
 
 2. The average Aged user is middle age around 50–62 years.
 
