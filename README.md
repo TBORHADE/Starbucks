@@ -14,14 +14,14 @@ Starbucks possesses a unique way of connecting with and rewarding its customers 
 
 I combined transaction, demographic, and offer data to determine which demographic groups respond best to which offer type. In this data analysis, I implement the CRISP-DM-based method for this data analysis. CRISP-DM is a process that is widely used in the analytics model. It includes the following phases: Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment.
 
-1.What is the average income for Starbucks customers?
-2.What is the average age for Starbucks customers?
-3.What is the most common promotion?
-4.What are the most common age and gender?
-5.Who is the most loyal customer?
-6.What is the most common promotion for children, teens, young adults, and elderly customers?
-7.which gets more income from males or females?
-8.Which type of promotions does each gender likes?
+/1.What is the average income for Starbucks customers?
+/2.What is the average age for Starbucks customers?
+/3.What is the most common promotion?
+/4.What are the most common age and gender?
+/5.Who is the most loyal customer?
+/6.What is the most common promotion for children, teens, young adults, and elderly customers?
+/7.which gets more income from males or females?
+/8.Which type of promotions does each gender likes?
 
 ## File Descriptions
 1. The datasets that we have and we are going to read, clean, and analyze:
